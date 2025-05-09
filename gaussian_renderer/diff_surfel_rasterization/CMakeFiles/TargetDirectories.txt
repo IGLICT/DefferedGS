@@ -1,0 +1,3 @@
+/mnt/155_16T/zhangbotao/deferGS-jittor/gaussian_renderer/diff_surfel_rasterization/CMakeFiles/rebuild_cache.dir
+/mnt/155_16T/zhangbotao/deferGS-jittor/gaussian_renderer/diff_surfel_rasterization/CMakeFiles/CudaRasterizer.dir
+/mnt/155_16T/zhangbotao/deferGS-jittor/gaussian_renderer/diff_surfel_rasterization/CMakeFiles/edit_cache.dir

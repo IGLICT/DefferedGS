@@ -1,0 +1,1 @@
+from .jittor_texture import texture
